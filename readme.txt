@@ -1,1 +1,2 @@
 Hello world!
+merge test
